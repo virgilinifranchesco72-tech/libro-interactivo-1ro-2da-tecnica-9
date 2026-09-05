@@ -1,4 +1,4 @@
-# El aula que aprendió a escucharse — nueva versión
+"El comienzo de una historia q nadie esperaba"
 
 Nueva base del libro interactivo de 1ro 2da · Técnica 9.
 
