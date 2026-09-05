@@ -1,4 +1,4 @@
-"El comienzo de una historia q nadie esperaba"
+"EL COMIENZO DE UNA HISTORIA Q NADIE ESPERABA"
 
 Nueva base del libro interactivo de 1ro 2da · Técnica 9.
 
