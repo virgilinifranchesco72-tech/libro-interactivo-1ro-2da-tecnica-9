@@ -1,16 +1,24 @@
-#EL COMIENZO DE UNA HISTORIA Q NADIE ESPERABA
+# El aula que aprendió a escucharse — nueva historia
 
-Nueva base del libro interactivo de 1ro 2da · Técnica 9.
+## Temporada 1 — Treinta y tres nombres, un solo curso
 
-Esta versión empieza desde cero con una arquitectura distinta: una sola hoja visible, un único estado de página y una animación que se reinicia después de cada cambio. Así se evita la hoja blanca y el contenido repetido de la versión anterior.
+1ro 2da comienza con 33 alumnos que no se conocen. Durante 50 capítulos crean amistades, superan conflictos y eligen a sus representantes:
 
-## Archivos
+- Nicolás Ferraro — delegado.
+- Abril Sosa — subdelegada.
+- Renata Vázquez — auxiliar.
 
-- `index.html`: estructura del libro.
-- `styles.css`: diseño y animaciones.
-- `app.js`: navegación y cambio de páginas.
-- `ANIMACIONES.md`: apartado de trabajo para `bustoslucianonicolas866-jpg`.
+La preceptora Elena Montiel acompaña al curso y ayuda a que los representantes mejoren la estabilidad de las relaciones entre compañeros.
 
-## Trabajo del colaborador
+## Temporada 2 — Misión: Imposible Feria de Ciencias
 
-El colaborador tiene permisos de escritura para mejorar las animaciones. Se recomienda que trabaje en una rama y abra un Pull Request antes de modificar la versión principal.
+Durante 50 capítulos, 1ro 2da trabaja con 1ro 1ra y 1ro 3ra para crear un proyecto nunca visto. Los cursos de 1ro 4ta a 3ro 4ta intentan sabotearlos y superarlos. El equipo crea una inteligencia artificial obsoleta como señuelo y, el día de la feria, presenta detrás de una pared móvil una demostración tecnológica digna de una película de Iron Man. Ganan el concurso y el respeto de toda la escuela.
+
+## Datos
+
+- 2 temporadas.
+- 50 capítulos por temporada.
+- 100 capítulos en total.
+- 33 alumnos principales.
+- Los capítulos se cargan desde `book-data.js`.
+- La interfaz y la animación están separadas en `index.html`, `styles.css` y `app.js`.
